@@ -1,0 +1,21 @@
+package capstone.elsv2.emunCode;
+
+public enum SuccessCode {
+    SUCCESS,
+    PAY_SUCCESS,
+    CANCEL_SUCCESS,
+    REDUCE_SUCCESS,
+    LOGIN_SUCCESS,
+    LOGOUT_SUCCESS,
+    FIND_ALL_SUCCESS,
+    FIND_SUCCESS,
+    UPDATE_SUCCESS,
+    ADD_SUCCESS,
+    CREATED,
+    REGISTER_SUCCESS,
+    SEND_SUCCESS,
+    CHECK_SUCCESS,
+    ACCEPT_SUCCESS,
+    REJECT_SUCCESS,
+
+}

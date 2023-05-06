@@ -1,0 +1,23 @@
+package capstone.elsv2.emunCode;
+
+public enum StatusCode {
+    PAID,
+    FULL_BOOKING,
+    REPLIED_CUSTOMER,
+    REPLIED_SITTER,
+    CUSTOMER_PENDING,
+    SITTER_PENDING,
+    CANCEL,
+    COMPLETED,
+    REPLIED,
+    WAITING,
+    WORKING,
+    DONE,
+    ACTIVATE,
+    DEACTIVATE,
+    CREATED,
+    CUSTOMER_TO_SITTER,
+    SITTER_TO_CUSTOMER,
+    REJECTED,
+    PENDING
+}
